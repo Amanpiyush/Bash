@@ -1,0 +1,13 @@
+SHEBANG! : #!/bin/bash
+#!/bin/bash
+
+echo "Hello Hiro"
+
+Excuting the Bash file :
+
+./Hiro.sh  : Required RWX permission to excuted
+
+Provide the permission : chmod +x Hiro.sh or chmod 700 Hiro.sh
+It will turn in green or blue color.
+/path/Hiro.sh
+bash Hiro.sh  : Permission not required.
