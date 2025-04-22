@@ -1,0 +1,15 @@
+#!/bin/bash
+#doing the nmap scan on target.  -- Single line comment
+echo "Starting scan on $1"
+
+<<'INFO'
+=======================
+ 🧪 Tools in Use:
+ - Nmap
+ - Gobuster
+ - Metasploit
+ - Google Dorking
+=======================
+INFO
+
+#<< Multiple line comment
